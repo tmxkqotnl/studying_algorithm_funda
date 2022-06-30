@@ -1,5 +1,0 @@
-3 minutes pytorch codes and file for running these.
-
-pytorch
-matplotlib
-scikit-learn
